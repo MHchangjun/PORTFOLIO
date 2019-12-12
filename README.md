@@ -16,7 +16,7 @@
  ### 개발
 
  * 사용 기술 : Unity 3D, Oculus VR, 3ds Max, ZBrush, Arduino, C#, Final IK
- * [소드아트 온라인](https://ko.wikipedia.org/wiki/%EC%86%8C%EB%93%9C_%EC%95%84%ED%8A%B8_%EC%98%A8%EB%9D%BC%EC%9D%B8)의 메뉴 시스템 구현
+ * [소드아트 온라인](https://ko.wikipedia.org/wiki/%EC%86%8C%EB%93%9C_%EC%95%84%ED%8A%B8_%EC%98%A8%EB%9D%BC%EC%9D%B8)의 [메뉴](https://lh3.googleusercontent.com/-63GU2q3IyPM/VGhONPoORsI/AAAAAAAAIaw/Oi1x_S5r1Zc/w400-h225-no/%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83.gif) 시스템 구현
 * Final IK해 사용한 1인칭 캐릭터 모델 구현
 * 활살 포물선 구현
 
@@ -64,8 +64,8 @@
 
 * [FreeNet](https://github.com/sunduk/FreeNet) C# 라이브러리를 사용해 소켓 서버 구현
 * winform으로 클라이언트 구현
-* 새로운 방을 만들면 코드가 주어지며 다른 유저들은 그 코드로 참여 할 수 있다.
+* 새로운 방을 만들면 코드가 주어지며 다른 사용자들은 그 코드로 방에 참여
 
 ## TMI (Too Much Information)
 
-* 의외로 쓸만했다.
+* 의외로 쓸만했습니다.
