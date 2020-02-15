@@ -65,7 +65,3 @@
 * [FreeNet](https://github.com/sunduk/FreeNet) C# 라이브러리를 사용해 소켓 서버 구현
 * winform으로 클라이언트 구현
 * 새로운 방을 만들면 코드가 주어지며 다른 사용자들은 그 코드로 방에 참여
-
-## TMI (Too Much Information)
-
-* 의외로 쓸만했습니다.
